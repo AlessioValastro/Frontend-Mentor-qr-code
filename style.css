@@ -8,10 +8,9 @@
 }
 
 body {
-  display: flex;
-  justify-content: center;
-
-  margin-top: 7rem;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
 
   background: var(--clr-lightgray);
   font-family: var(--font-family);
