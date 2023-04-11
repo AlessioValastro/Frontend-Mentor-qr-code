@@ -42,6 +42,8 @@ body {
 .content h1 {
   font-size: 1.6rem;
   font-weight: 700;
+  
+  opacity: 0.9;
 }
 
 .content p {
